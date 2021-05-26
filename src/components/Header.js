@@ -1,4 +1,4 @@
-import { AppBar, Box, Container, Toolbar, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import React from "react";
 import HideOnScroll from "./HideOnScroll";

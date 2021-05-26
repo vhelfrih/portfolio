@@ -1,4 +1,4 @@
-import { Container, Toolbar, Typography } from "@material-ui/core";
+import { Container, Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import React from "react";
 import CopyrightIcon from '@material-ui/icons/Copyright';
