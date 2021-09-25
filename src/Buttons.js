@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
       opacity: 1,
       transform: "translate3d(0, 0, 0)",
     },
-  },
+  }, 
 }));
 
 export default function Buttons() {

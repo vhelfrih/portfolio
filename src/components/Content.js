@@ -65,12 +65,12 @@ export default function Content() {
       github: "#"
     },
     {
-      title: "Other Business Page",
+      title: "Coinprices Tracker",
       id: "4",
-      desc: "A simple CSS practice page",
-      image: "/static/images/cards/contemplative-reptile.jpg",
-      href: "#",
-      github: "#"
+      desc: "Cryptocurrency pricetracker in React",
+      image: process.env.PUBLIC_URL + "/assets/cryptotracker.png",
+      href: "https://coinpricetracker.netlify.app/",
+      github: "https://github.com/vhelfrih/cointracker/tree/master"
     },
     {
       title: "Strava API",
