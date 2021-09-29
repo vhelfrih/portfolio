@@ -124,7 +124,7 @@ export default function Content() {
                   startIcon={<EmojiObjectsOutlinedIcon />}
                   href={work.href}
                 >
-                  Idea
+                  demo
                 </Button>
                 </Link>
                 <Link>
